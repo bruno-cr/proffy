@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://github.com/bprofiro/assets/blob/master/Proffyweb.png"/>
-</p>
-
-
 ## Sobre o Projeto
 
   Esse projeto foi desenvolvido durante a Next Level Week 2, organizada pela Rocketseat, evento criado com o objetivo de passar conhecimentos básicos e avançados de programação, por meio do desenvolvimento de um projeto de ponta a ponta. O projeto
